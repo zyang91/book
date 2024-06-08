@@ -1,6 +1,6 @@
 # My Book
 
-This cookiecutter creates a simple boilerplate for a Jupyter Book.
+This cookiecutter creates a simple boilerplate for a Jupyter Book. updared
 
 ## Usage
 
