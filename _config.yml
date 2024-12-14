@@ -42,7 +42,7 @@ repository:
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   favicon: "fav.ico"
-  baseurl: https://zyang91.github.io/CPLN_Final_book # The base URL where your book will be hosted.
+  baseurl: https://zyang91.github.io/CPLN503_Final_book # The base URL where your book will be hosted.
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: true
@@ -55,7 +55,7 @@ sphinx:
     # html_extra_path: ["CNAME", "robots.txt"]
     html_theme_options:
       use_download_button: true
-      repository_url: https://github.com/zyang91/my-book
+      repository_url: https://github.com/zyang91/CPLN503_Final_book
       use_issues_button: true
       use_repository_button: true
       use_edit_page_button: true
