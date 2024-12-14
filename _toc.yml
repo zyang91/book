@@ -4,9 +4,10 @@
 format: jb-book
 root: index
 chapters:
-  - file: book/markdown
-  - file: book/notebooks
-  - file: book/bibliography
+  - file: book/landsat
+  - file: book/landsat_heat
+  - file: book/satellite
+  - file: book/splitmap
 
 # Or you organize the TOC by parts
 
